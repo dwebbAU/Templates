@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "dwstore1"
     },
     "adminUsername": {
       "value": "admin123"
@@ -12,8 +12,14 @@
       "value": "ADmin123_!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "dw1986"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
     }
-  }
+  
 }
 
